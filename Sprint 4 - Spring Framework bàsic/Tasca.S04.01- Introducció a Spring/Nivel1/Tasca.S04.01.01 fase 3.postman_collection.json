@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "a3beca95-14c1-44c0-9f40-8645df93014b",
+		"name": "Tasca.S04.01.01 fase 3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{IP}}:{{port}}",
+					"host": [
+						"{{IP}}"
+					],
+					"port": "{{port}}"
+				}
+			},
+			"response": []
+		}
+	]
+}

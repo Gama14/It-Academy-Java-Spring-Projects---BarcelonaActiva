@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "68ee0c17-5f6b-416c-8b6c-9d52e0960320",
+		"name": "Tasca.S04.01.03",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/nivel3",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"nivel3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

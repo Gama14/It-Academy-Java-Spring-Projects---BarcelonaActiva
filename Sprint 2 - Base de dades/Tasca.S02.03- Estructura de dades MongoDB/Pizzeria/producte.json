@@ -1,0 +1,8 @@
+[{
+  "_id": 1,
+  "nom": "pizza margarita",
+  "descripció": "pizza amb tomaquet, orenga i mozzarela",
+  "imatge": "/imagen/pizza.jpg",
+  "preu": 10.99,
+  "categoria": "pizza"
+}]

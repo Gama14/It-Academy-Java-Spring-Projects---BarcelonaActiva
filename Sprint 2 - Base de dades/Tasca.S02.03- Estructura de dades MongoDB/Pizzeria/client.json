@@ -1,0 +1,15 @@
+[{
+  "_id": 1,
+  "nom": "Marcos",
+  "cognom": "Garcia",
+  "adreça": {
+    "carrer": "maragall",
+    "numero": 112,
+    "pis": 3,
+    "porta": "A",
+    "codi postal": "08011"
+  },
+  "telefon": -1299,
+  "provincia": "Barcelona",
+  "localitat": "Barcelona"
+}]

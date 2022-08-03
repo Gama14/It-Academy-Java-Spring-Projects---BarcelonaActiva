@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "nom": "optical",
+  "telefon": "093-849-000",
+  "fax": "89-847-9384",
+  "NIF": "98766782K",
+  "direcció": {
+    "carrer": "gran via",
+    "numero": 89,
+    "pis": 1,
+    "porta": "A",
+    "codi postal": "08019",
+    "ciutat": "Barcelona",
+    "país": "Espanya"
+  }
+}]

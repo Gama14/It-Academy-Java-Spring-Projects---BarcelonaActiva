@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "nom": "Sara",
+  "direcció": {
+    "carrer": "alfons X",
+    "numero": 12,
+    "pis": 2,
+    "porta": "A",
+    "codi postal": "08013",
+    "ciutat": "Barcelona",
+    "país": "Espanya"
+  },
+  "telefon": -1243,
+  "data de registre": -12,
+  "recomanacio_client": 1
+}]
